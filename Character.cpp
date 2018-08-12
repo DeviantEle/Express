@@ -45,8 +45,6 @@ int Character::GainExp() {
 		break;
 	case 1:
 		break;
-	case 2:
-		break;
 	}
 	return c_exp;
 }
