@@ -40,7 +40,7 @@ int Character::CalcLevel() {
 }
 
 int Character::GainExp() {
-	switch (c_expgain) {
+	switch (c_monsterid) {
 	case 0: 
 		break;
 	case 1:

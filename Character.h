@@ -4,6 +4,7 @@
 
 class Character {
 private:
+	unsigned int c_monsterid;
 	unsigned int c_expgain;
 	unsigned int c_remexp;
 	unsigned int c_level;
